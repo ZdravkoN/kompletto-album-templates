@@ -33,6 +33,13 @@ Available free on the [App Store](https://apps.apple.com/us/app/kompletto-sticke
 > **Adrenalyn XL Standard vs Full**
 > The **Standard** template covers only the base set of cards. The full **Adrenalyn XL** template includes everything — base cards plus all limited edition and extra cards.
 
+### Children
+
+| Template | Download |
+|---|---|
+| Gabby's Dollhouse | [Download](https://github.com/ZdravkoN/kompletto-album-templates/raw/main/children/Gabbys%20Dollhouse.kompalbum) |
+| K-Pop Demon Hunters | [Download](https://github.com/ZdravkoN/kompletto-album-templates/raw/main/children/K-Pop%20Demon%20Hunters.kompalbum) |
+
 ---
 
 ## How to Use
